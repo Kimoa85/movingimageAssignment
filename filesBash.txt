@@ -1,0 +1,1 @@
+find /var/log -mindepth 1 -size +1M -type f > files.txt
